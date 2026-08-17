@@ -1,6 +1,10 @@
 # Supplementary materials for the CAD-score-LT publication
 
-This repository contains materials supporting the CAD-score-LT publication: software source codes, as well as the benchmarking and example workflows, and the results of those workflows.
+This repository contains materials supporting the CAD-score-LT publication:
+
+* software source codes
+
+* benchmarking and example workflows, and the results of those workflows
 
 ## Software source codes
 
