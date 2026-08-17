@@ -35,6 +35,12 @@ The following workflow directories cover the bencharking and examples presented 
 
 Every workflow directory contains a ``workflow.bash`` script that defines environmental variables and runs the workflow scripts.
 
+The workflow scripts are intended to work on Linux or in a Linux-like environment.
+
 The workflow scripts automatically download and prepare most of the software, but
-some software packages need to be installed manually or available beforehand: R (any version from last 20 years), OpenStructure (recommended version 2.11.1).
+some software packages need to be installed manually or available beforehand:
+
+* R (any version from last 20 years) required for all the workflows
+
+* OpenStructure (recommended version 2.11.1) required for [supplementary_workflows/comparison_with_different_scores](supplementary_workflows/comparison_with_different_scores)
 
