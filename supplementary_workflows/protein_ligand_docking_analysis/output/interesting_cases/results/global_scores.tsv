@@ -1,0 +1,3 @@
+target	model	t_id	m_id	atom_atom_cadscore	atom_atom_F1_of_areas	atom_atom_target_area	atom_atom_model_area	atom_atom_TP_area	atom_atom_FP_area	atom_atom_FN_area	atom_sites_cadscore	atom_sites_F1_of_areas	atom_sites_target_area	atom_sites_model_area	atom_sites_TP_area	atom_sites_FP_area	atom_sites_FN_area	identity_of_residues	identity_of_atoms	identity_of_chains
+target_3tsk_ligand.cif	model_3tsk_713.cif	2	1	0.410275	0.48928	526.553355	320.646063	259.42231	274.448502	267.131045	0.826404	0.877282	526.553355	526.46001	465.145558	68.725254	61.407797	100	100	100
+target_3tsk_ligand.cif	model_3tsk_358.cif	2	0	0.307607	0.418861	526.553355	328.208012	219.523701	302.11703	307.029653	0.851762	0.900923	526.553355	520.645091	472.170821	49.46991	54.382534	100	100	100

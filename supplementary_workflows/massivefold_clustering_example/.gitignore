@@ -1,0 +1,10 @@
+/tools/
+/output_data/extremely_compact/raw/log.txt
+/output_data/extremely_compact/raw/results/residue_residue_cadscore_global.tsv
+/output_data/extremely_compact/renumbered/log.txt
+/output_data/extremely_compact/renumbered/results/residue_residue_cadscore_global.tsv
+/output_data/extremely_compact/renumbered_remapped_clustered/log.txt
+/output_data/extremely_compact/renumbered_remapped_clustered/results/residue_residue_cadscore_global.tsv
+/output_data/normal/reference_based_renumbered/log.txt
+/output_data/normal/reference_based_renumbered_remapped/log.txt
+/output_data/list_of_input_model_paths
